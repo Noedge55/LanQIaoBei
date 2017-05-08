@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PrimeNum {
+public class ALGO_51 {
     public static void main(String args[]){
         int n = 0 ;
         Scanner scanner = new Scanner(System.in) ;
