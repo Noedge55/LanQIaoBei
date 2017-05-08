@@ -1,4 +1,21 @@
 # LanQIaoBei
 蓝桥杯练习系统的题目
  - 入门训练
-  - 
+    - [Begin_4 - Fibonacci数列 - 数组计算(非递归)](http://blog.csdn.net/noedge/article/details/54706181)
+ - 算法训练
+    - [ALGO_48 - 关联矩阵](http://blog.csdn.net/noedge/article/details/54706363)
+    - [ALGO_49 - 寻找数组中最大值](http://blog.csdn.net/noedge/article/details/54706496)
+    - [ALGO_51 - Torry的困惑(基本型)](http://blog.csdn.net/noedge/article/details/54706764)
+    - [ALGO_79 - 删除数组零元素](http://blog.csdn.net/noedge/article/details/54794483)
+    - [ALGO_86 - 矩阵乘法](http://blog.csdn.net/noedge/article/details/54861602)
+    - [ALGO_87 - 字串统计](http://blog.csdn.net/noedge/article/details/54884908)
+    - [ALGO_91 - Anagrams问题](http://blog.csdn.net/noedge/article/details/54916720)
+    - [ALGO_95 - 2的次幂表示](http://blog.csdn.net/noedge/article/details/55000367)
+    - ALGO_124 - 数字三角形
+ - 其他
+    - [2017模拟赛本科试题 - 字符串比较](http://blog.csdn.net/noedge/article/details/69336497)
+    - [2017模拟赛本科试题 - 风险度量](http://blog.csdn.net/noedge/article/details/69568766)
+    - [2017模拟赛本科试题 - 排列序数](http://blog.csdn.net/noedge/article/details/69323237)
+    - [蓝桥杯-2017模拟赛本科试题-猜算式](http://blog.csdn.net/noedge/article/details/69226591)
+    - [第七届Java语言B组 - 剪邮票](http://blog.csdn.net/noedge/article/details/61926058)
+    - [第七届Java语言B组-方格填数](http://blog.csdn.net/noedge/article/details/61621676)
