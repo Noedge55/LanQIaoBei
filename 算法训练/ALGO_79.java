@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DeleteZero {
+public class ALGO_79 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in) ;
         int n = 0 ;
