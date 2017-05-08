@@ -10,5 +10,6 @@ public class Begin_4 {
             arr[i] = (arr[i-1]+arr[i-2])%mod ; //求得arr[n]并取模
         }
         System.out.println(arr[n]);
+	scanner.close();
     }
 }
